@@ -45,5 +45,6 @@ void loop()
     digitalWrite(LED, HIGH);
     digitalWrite(buzzer, HIGH);
     delay(1000);}
+    // modificado
   
 }
